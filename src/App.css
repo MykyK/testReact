@@ -1,0 +1,28 @@
+.feed-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.MuiButton-textPrimary {
+  color: #fff!important
+}
+.link {
+  color: fff !important;
+  text-decoration: none !important;
+}
+.text-center {
+  text-align: center;
+}
+.scheduler-container {
+  height: 100vh;
+  width: 100vw;
+}
+.my-20 {
+  margin:20px 0;
+}
+.full-width {
+  width: 100%;
+}
+.box-width {
+  max-width: 350px;
+}
